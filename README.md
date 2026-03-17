@@ -118,6 +118,181 @@ body {
 
 </div>
 
+<div class="book-tribute">
+    <h3>Frankenstein (1818)</h3>
+    <img src="artifact-002.png" alt="Frankenstein 1818" style="max-width:200px;">
+    </div>
+<div class="book-tribute">
+    <h3>A Christmas Carol (1843)</h3>
+    <img src="artifact-003.png" alt="A Christmas Carol 1843" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$35,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$16.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Dracula (1897)</h3>
+    <img src="artifact-004.png" alt="Dracula 1897" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$120,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$19.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Moby-Dick (1851)</h3>
+    <img src="artifact-005.png" alt="Moby-Dick 1851" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$65,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$17.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Origin of Species (1859)</h3>
+    <img src="artifact-006.png" alt="Origin of Species 1859" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$150,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$24.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Wealth of Nations (1776)</h3>
+    <img src="artifact-007.png" alt="Wealth of Nations 1776" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$250,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$29.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Principia Mathematica (1687)</h3>
+    <img src="artifact-008.png" alt="Principia Mathematica 1687" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$750,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$34.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>The Birds of America (1840)</h3>
+    <img src="artifact-009.png" alt="Birds of America 1840" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$1,000,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$49.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>The Federalist Papers (1788)</h3>
+    <img src="artifact-010.png" alt="Federalist Papers 1788" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$300,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$19.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Shakespeare First Folio (1623)</h3>
+    <img src="artifact-011.png" alt="Shakespeare First Folio 1623" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$5,000,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$59.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>The Book of Kells (Replica)</h3>
+    <img src="artifact-012.png" alt="Book of Kells Illuminated Manuscript" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$12,000,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$79.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Nuremberg Chronicle (1493)</h3>
+    <img src="artifact-013.png" alt="Nuremberg Chronicle First Edition Map" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$350,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$29.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>De Humani Corporis Fabrica (1543)</h3>
+    <img src="artifact-014.png" alt="Vesalius De Fabrica Muscle Plate" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$500,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$39.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Cosmographia (1533)</h3>
+    <img src="artifact-015.png" alt="Apian Cosmographia Movable Diagrams" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$100,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$19.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Les Roses (1817)</h3>
+    <img src="artifact-016.png" alt="Redoute Les Roses Colored Plates" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$600,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$39.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Encyclopédie (1751)</h3>
+    <img src="artifact-017.png" alt="Diderot Encyclopedie All Plates" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$1,200,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$49.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Astronomia Nova (1609)</h3>
+    <img src="artifact-018.png" alt="Kepler Astronomia Nova Title" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$400,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$34.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  <div class="book-tribute">
+    <h3>Les Roses (1817)</h3>
+    <img src="artifact-019.png" alt="Redoute Les Roses Colored Plates" style="max-width:200px;">
+    <p>Physical Value:</p>
+    <div class="physical-value">$600,000+</div>
+    <p>Digital Replica Price:</p>
+    <div class="digital-price">$39.99</div>
+    <a href="#REGISTRATION-FORM-LINK" class="action-button">BUY NOW (Requires Log-In)</a>
+  </div>
+
+  
 ---
 
 ## 🏛️ The-Vault-Rare-Books Summary
